@@ -1,5 +1,4 @@
 //Dialog of the first example is given below.
-//Dialog of the first example is given below.
 #include <iostream>
 #include <string>
 using namespace std;
@@ -27,7 +26,7 @@ int main()
 	cout << "Fahsai: "<< Week <<"....that is OK!!! I'm looking forward to watch "<< movie << "with you.\n";
 	cout << name <<": ";
 	getline(cin,ans);
-	cout << "Fahsai: 555+ see you Next Monday. Bye Bye \(^ ^)/ \n";
+	cout << "Fahsai: 555+ see you "<< Week <<". Bye Bye \(^ ^)/ \n";
 	
 	return 0;
 }
